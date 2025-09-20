@@ -1,5 +1,11 @@
-# DIO - Trilha .NET - Banco de Dados
+
+
+# 🎬 Desafio de Projeto – Banco de Dados | Trilha .NET – DIO  
 www.dio.me
+
+[![DIO Badge](https://img.shields.io/badge/DIO-Trilha%20.NET-blue)](https://www.dio.me)  
+[![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red)](https://www.microsoft.com/pt-br/sql-server)  
+[![Status](https://img.shields.io/badge/Status-Concluído-success)]() 
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de banco de dados, da trilha .NET da DIO.
